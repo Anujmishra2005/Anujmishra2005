@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Anujmishra2005
+- 👀 I’m interested in ... Competitive Progranning
 - 👀 I’m interested in ... Software Development and Cyber Security
 - 🌱 I’m currently learning ... Cyber Security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m Good at Coding languages ... Python , C/C++ , java(Beginner)
 - 📫 How to reach me ...
 
 <!---
