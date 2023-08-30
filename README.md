@@ -30,7 +30,6 @@ It's me, Anuj Mishra. You've probably never heard of me.And I've never thought o
 
 <p align="left"> <a href="https://twitter.com/anujmishra2022" target="blank"><img src="https://img.shields.io/twitter/follow/anujmishra2022?logo=twitter&style=for-the-badge" alt="anujmishra2022" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anujmishra2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anujmishra2005" height="30" width="40" /></a>
 <a href="https://twitter.com/anujmishra2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anujmishra2022" height="30" width="40" /></a>
