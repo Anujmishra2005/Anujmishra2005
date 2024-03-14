@@ -1,8 +1,4 @@
-<img align="centre" alt="coding" width="1000" src="https://github.com/Anujmishra2005/Anujmishra2005/blob/main/Header%20image.png">
 
-<h3 align="left">
-I am From Hidden Leaf Village
-</h3>
 <h3 align="left">
 It's me, Anuj Mishra. You've probably never heard of me.And I've never thought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I am writing a README about me. READ me.And you cannot star this repo,even if you click the star button.
 </h3>
