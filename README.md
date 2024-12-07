@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujmishra2005&label=Profile%20views&color=0e75b6&style=flat" alt="anujmishra2005" /> </p>
 
-<!--- <a href="https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c"><img src="https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg" alt="Total time coded since Oct 02 2020" /></a> --->
+<a href="https://wakatime.com/@a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c"><img src="https://wakatime.com/badge/user/a4ceabdf-2dc5-47ba-b7f7-063983cd9f4c.svg" alt="Total time coded since Oct 02 2020" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujmishra2005&" alt="anujmishra2005" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujmishra2005&show_icons=true&locale=en&layout=compact" alt="anujmishra2005" /></p>
