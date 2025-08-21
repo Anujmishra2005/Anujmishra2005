@@ -10,7 +10,6 @@
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=anujmishra2005&theme=matrix" alt="anujmishra2005" /></p>
 
 
-
 <p align="left"> <a href="https://twitter.com/anujmishra2022" target="blank"><img src="https://img.shields.io/twitter/follow/anujmishra2022?logo=twitter&style=for-the-badge" alt="anujmishra2022" /></a> </p>
 
 
